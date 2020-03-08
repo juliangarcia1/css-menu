@@ -1,0 +1,25 @@
+div {
+    border: 2px solid blue;
+    min-height: 100px;
+    margin: 1px;
+}
+.body{
+    display: flex;
+}
+.menu{
+    width: 2em;
+    border: 2px solid red;
+    background-color: red;
+}
+.menu :hover {
+    width:auto;
+}
+.items {
+    padding: 0;
+    margin: 0;;
+    background: lightcoral;
+    /* height:100%; */
+}
+/* .items :hover {
+    width:300px;
+} */
